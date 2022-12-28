@@ -51,7 +51,7 @@ class MovieListSerializer(serializers.ModelSerializer):
     actors = serializers.SlugRelatedField(
         many=True,
         read_only=True,
-        slug_field="full_name",
+        slug_field="first_name",
     )
 
     class Meta:
