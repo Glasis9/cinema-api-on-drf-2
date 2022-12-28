@@ -2,6 +2,9 @@
 
 API service for cinema management written on DRF
 
+## Endpoints in Swagger
+
+
 ## Installing using GitHub
 Install PostgresSQL and create db
 ```shell
