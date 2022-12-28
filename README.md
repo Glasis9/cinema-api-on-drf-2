@@ -3,7 +3,9 @@
 API service for cinema management written on DRF
 
 ## Endpoints in Swagger
-
+![1 screenshots](https://raw.githubusercontent.com/Glasis9/cinema-api-on-drf-2/main/1%20screenshots.jpg)
+![2 screenshots](https://raw.githubusercontent.com/Glasis9/cinema-api-on-drf-2/main/2%20screenshots.jpg)
+![3 screenshots](https://raw.githubusercontent.com/Glasis9/cinema-api-on-drf-2/main/3%20screenshots.jpg)
 
 ## Installing using GitHub
 Install PostgresSQL and create db
